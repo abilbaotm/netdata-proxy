@@ -1,0 +1,4 @@
+htpasswd
+private.key
+certificate.crt
+ca_bundle.crt
